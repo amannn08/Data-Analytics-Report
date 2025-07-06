@@ -1,5 +1,5 @@
 # 📈 Data Analysis and Dashboard Report
-
+#Comprehensive dashboard report analyzing 7 datasets using Excel — includes insights on sales, loan risk, car pricing, customer trends, and more.
 This project presents a comprehensive Excel dashboard analysis of **seven distinct datasets**, each designed to extract valuable insights through visual storytelling. These dashboards provide an intuitive understanding of key business metrics and empower data-driven decision-making.
 
 ---
